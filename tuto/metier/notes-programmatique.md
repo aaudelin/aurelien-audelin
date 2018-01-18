@@ -3,6 +3,8 @@ Notes du principe de programmatique
 
 ![architecture](dsp-768x449.jpg "architecture programmatique")
 
+Source : https://www.definitions-marketing.com/definition/dsp/, http://tradelab.com/programmatique/
+
 ## Publishers (éditeurs)
 Ce sont des éditeurs proposant des espaces publicitaires libres. Exemple : média vidéo ou emplacement publicitaire sur un site WEB...
 
