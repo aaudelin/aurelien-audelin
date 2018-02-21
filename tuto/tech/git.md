@@ -1,7 +1,7 @@
 # Rebase feature with sprint branch
-- git checkout <sprint>
+- git checkout _sprint_
 - git pull
-- git checkout <feature>
+- git checkout _feature_
 - git pull
 - git rebase sprint
 (git rebase --skip for unncessary commits)
