@@ -1,6 +1,6 @@
 # Rebase feature with sprint branch
 - git checkout sprint
-- git pulllllll
+- git pull
 - git checkout feature
 - git pull
 - git rebase sprint
