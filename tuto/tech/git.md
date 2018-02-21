@@ -13,3 +13,8 @@
 - git pull
 - git push
 
+# Merging
+- Resolve conflicts manually
+- git add <files>
+- git commit -m 'Merging files'
+
